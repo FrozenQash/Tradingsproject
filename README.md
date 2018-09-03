@@ -1,4 +1,4 @@
-# This is the official repository for the waverider-bot, created by WaveRider(tm). The wave-rider bot is currently in alpha/concept stadium.
+# This is the official repository for the waverider tradingsbot, created by WaveRider(tm). The waverider tradingsbot is currently in alpha/concept stadium.
 
 A few python/R/C++ scripts will be given for public here:
 - Python script for fetching twitter and exchange data.
